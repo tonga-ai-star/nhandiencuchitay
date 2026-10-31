@@ -1,0 +1,9 @@
+.venv/
+.venv310/
+.venv312/
+__pycache__/
+.idea/
+*.pyc
+MP_Data/
+models/
+results/
